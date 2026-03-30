@@ -5,7 +5,7 @@ This project performs a deep-dive Exploratory Data Analysis (EDA) on an Online R
 ## Technical Toolkit
 * **Language:** Python
 * **Data Manipulation:** Pandas, NumPy
-* **Visualization:** Matplotlib, Seaborn (Custom Heatmaps & Bar Charts)
+* **Visualization:** Matplotlib, Seaborn (Bar Charts, Histogram Charts, and Line Chart)
 * **Environment:** VS Code / Jupyter Notebook
 
 ## Key Business Insights
