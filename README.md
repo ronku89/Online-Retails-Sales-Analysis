@@ -1,4 +1,4 @@
-# 📊 Online Retail Business Strategy & EDA Analysis
+# Online Retail Sales Analysis
 
 This project performs a deep-dive Exploratory Data Analysis (EDA) on an Online Retail dataset to uncover key business insights, customer behavior patterns, and sales trends. The goal is to provide actionable recommendations for marketing and inventory management.
 
