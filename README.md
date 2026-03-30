@@ -2,13 +2,13 @@
 
 This project performs a deep-dive Exploratory Data Analysis (EDA) on an Online Retail dataset to uncover key business insights, customer behavior patterns, and sales trends. The goal is to provide actionable recommendations for marketing and inventory management.
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 * **Language:** Python
 * **Data Manipulation:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn (Custom Heatmaps & Bar Charts)
 * **Environment:** VS Code / Jupyter Notebook
 
-## 🔍 Key Business Insights
+## Key Business Insights
 
 1. **Data Cleaning & Integrity:** Applied **99th percentile capping (Winsorization)** on Quantity and Price to handle extreme outliers and ensure realistic analysis.
 2. **Segmentation Logic:** Separated **Guest and Registered customers** to better understand loyalty and repeat purchase behavior.
@@ -25,6 +25,6 @@ This project performs a deep-dive Exploratory Data Analysis (EDA) on an Online R
 13. **Operational Health:** Maintained an impressive **3% Cancellation/Return rate**, which is very healthy for the retail industry.
 14. **Correlation Insight:** Found a strong positive correlation between Quantity and Total Sales, confirming that volume is the primary revenue driver.
 
-## 🚀 Conclusion
+## Conclusion
 The analysis highlights a stable business with high customer loyalty in the UK. Focusing on Q4 inventory and mid-day marketing during weekdays can further optimize revenue.
 
