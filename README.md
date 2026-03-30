@@ -28,5 +28,3 @@ This project performs a deep-dive Exploratory Data Analysis (EDA) on an Online R
 ## 🚀 Conclusion
 The analysis highlights a stable business with high customer loyalty in the UK. Focusing on Q4 inventory and mid-day marketing during weekdays can further optimize revenue.
 
----
-*Developed as part of a Data Analytics Portfolio project.*
